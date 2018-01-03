@@ -32,3 +32,11 @@ I want to make coding a habit.
 1. [Tiny habit ted talk] (https://www.youtube.com/watch?v=AdKUJxjn-R8&t=139s)
 2. [Stack Overflow terminal VS code](https://stackoverflow.com/questions/42606837/how-to-use-bash-on-windows-from-visual-studio-code-integrated-terminal)
 3.[Asyn Edx Course](https://courses.edx.org/courses/course-v1:Microsoft+DEV234x+1T2018/course/)
+
+### Day 2: January 02, Tuesday
+
+**Today's Progress**: Tried reverse engineering a memory game that is on edx. Just worked on the psuedo code.
+
+**Thoughts** :I barley got any work done. I think I'm going to try to start waking up earlier and using the pomodoro clock method.
+
+**Link(s) to work**
