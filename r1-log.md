@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Ola Giwa]
 
 The log of my #100DaysOfCode challenge. Started on [January 1, Monday, 2018].
 
@@ -9,6 +9,9 @@ Changed visual studio terminal to git bash  https://stackoverflow.com/questions/
 
 Started edx.org Asynchronous Programming with Javascript course.
 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
-
 ### R1D2
+Worked on memory game.
+
+### R1D3
+Still working on memory game.
+
