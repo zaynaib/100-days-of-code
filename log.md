@@ -40,3 +40,16 @@ I want to make coding a habit.
 **Thoughts** :I barley got any work done. I think I'm going to try to start waking up earlier and using the pomodoro clock method.
 
 **Link(s) to work**
+
+### Day 3: January 03, Wednesday
+
+**Today's Progress**: Still reverse engineering the memory game from edx Asncyhouous Javascript course. I got the table to be displayed.
+                      And now I am working on the toggle show/hide buttons from jquery. Tomorrow I will use the keyword this in order to hide one element instead of classes and ids.
+
+**Thoughts** :Today I took my own adviced and used the pomodoro clock method to stay somewhat focused today. I have to work on waking up early.
+              Need to start bullet journaling again. It kept me focused and productive last year.
+
+**Link(s) to work**
+1. [Hide/Show JQuery toggle buttons] (https://www.w3schools.com/jquery/jquery_hide_show.asp)
+2. [Pomodoro Clock](https://tomato-timer.com/)
+3. [Bullet Journal](http://bulletjournal.com/)
