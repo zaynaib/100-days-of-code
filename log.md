@@ -19,9 +19,9 @@ playing around with javascript will only improve my understand of it.
 I want to make coding a habit.
 
 **Link(s) to work**
-1. [Tiny habit ted talk] (https://www.youtube.com/watch?v=AdKUJxjn-R8&t=139s)
+1. [Tiny habit ted talk](https://www.youtube.com/watch?v=AdKUJxjn-R8&t=139s)
 2. [Stack Overflow terminal VS code](https://stackoverflow.com/questions/42606837/how-to-use-bash-on-windows-from-visual-studio-code-integrated-terminal)
-3.[Asyn Edx Course](https://courses.edx.org/courses/course-v1:Microsoft+DEV234x+1T2018/course/)
+3. [Asyn Edx Course](https://courses.edx.org/courses/course-v1:Microsoft+DEV234x+1T2018/course/)
 
 ### Day 2: January 02, Tuesday
 
@@ -40,6 +40,33 @@ I want to make coding a habit.
               Need to start bullet journaling again. It kept me focused and productive last year.
 
 **Link(s) to work**
-1. [Hide/Show JQuery toggle buttons] (https://www.w3schools.com/jquery/jquery_hide_show.asp)
+1. [Hide/Show JQuery toggle buttons](https://www.w3schools.com/jquery/jquery_hide_show.asp)
 2. [Pomodoro Clock](https://tomato-timer.com/)
 3. [Bullet Journal](http://bulletjournal.com/)
+
+### Day 4: January 04, Thursday
+
+**Today's Progress**: Still reverse engineering the memory game from edx Asncyhouous Javascript course. Worked on the css of the table and used                          the this key word in order to hide indiviual cells. I also forgot that append in not a javscript function but a JQuery                             function that allows you to add something to the DOM not an array.
+**Thoughts** :Today I coded with some of my friends in the Cool Coding Cats meetup. I need to work on the little nuances of javascript. I learned                the concept of bubbling. I just feel kind of behind on learning javascript. I need to manage my time properly.
+
+**Link(s) to work**
+1. [Add event listener function](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+2. [JS array functions](https://www.w3schools.com/jsref/jsref_obj_array.asp)
+
+### Day 5: January 05, Friday
+
+**Today's Progress**: Still reverse engineering the memory game from edx Asncyhouous Javascript course. Discovered the psuedo class hover is not                         only for anchor links but for all elements in html!
+
+**Thoughts** :Today I took my own adviced and used the pomodoro clock method to stay somewhat focused today. I have to work on waking up early.
+              Need to start bullet journaling again. It kept me focused and productive last year.
+
+**Link(s) to work**
+1. [Hide/Show JQuery toggle buttons](https://www.w3schools.com/jquery/jquery_hide_show.asp)
+2. [Pomodoro Clock](https://tomato-timer.com/)
+3. [Bullet Journal](http://bulletjournal.com/)
+
+### Day 6: April 23, 2018
+**Today's Progress**: Looked at Udacity Google Scholarship material. Look over d3.js code version 4 tutorial from a site called tutorialpoint.com.
+Created a hello world selection of a d3 element.
+
+**Thoughts** :I am tired as hell. But I said that I will start the 100 days of code journey and that's what I'm going to do.
