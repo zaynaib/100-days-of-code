@@ -70,3 +70,10 @@ I want to make coding a habit.
 Created a hello world selection of a d3 element.
 
 **Thoughts** :I am tired as hell. But I said that I will start the 100 days of code journey and that's what I'm going to do.
+
+### Day 7: April 24, 2018
+**Today's Progress**: Looked at the tutorialpoint tutorial about d3.js. Learned about the text method. There are to ways to use it.
+.text() -> is to recieve text from a DOM element
+.text("Hello World!") -> is to insert text into the DOM
+Did not realize this before.
+**Thoughts** :I'm still tired. I have to find a better way to sneak in some more coding lessons. Maybe study while I'm on the train. I also have to cut out meetups. Find a balance between work and play.
