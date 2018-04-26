@@ -77,3 +77,7 @@ Created a hello world selection of a d3 element.
 .text("Hello World!") -> is to insert text into the DOM
 Did not realize this before.
 **Thoughts** :I'm still tired. I have to find a better way to sneak in some more coding lessons. Maybe study while I'm on the train. I also have to cut out meetups. Find a balance between work and play.
+
+### Day 8: April 25, 2018
+**Today's Progress**: Completed the animal card challenge from the Google Udacity Nanodegree. Thank goodness for the slack channel. I still have to work on css layout and better understand the box model. 
+**Thoughts** : Still very sleepy. But I think I'm getting the hang of coding daily on the side.
