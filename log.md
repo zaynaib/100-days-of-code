@@ -90,7 +90,34 @@ Articles that I would like to read
 
 ### Day 9: October 9, 2018
 **Today's Progress**: Decided to do a 30 day challenge on Pure CSS images. I'm really bad a CSS and I'm
-hoping that creating cute images will get me motivated to master CSS.
+hoping that creating cute images will get me motivated to master CSS. 
 **Thoughts** : I just followed the tutorial from Mike Mangialardi on CSS Images. I bushed up on different
 css positioning. The most important part of the article is a formula to set the images dead center in a div.
-`(100 - widthOftheDiv) / 2`
+```javascript
+left = (100 - width) / 2
+top = (100 - height) / 2
+ ```
+**Link**
+You can find my code on my CodePen profile: https://codepen.io/OG/pen/wYGMgE
+
+
+ ### Day 10: October 10, 2018
+ **Today's Progress**: This is day 2 of 30 days of pure css images challenge. I watched more videos from the Coding Artist website. These videos showed me how I can improve my workflow to create CSS Images faster.
+ I started to use preprocessors such as SCSS and pug. Created Boo from Mario games as my CSS image today.
+
+**Thoughts** : It was fun. I feel like I'm understanding more of the fundamentals of CSS. I want to create a blog post about the different css positioning. Hopefully I will not only get better at vector graphics but also HTML layouts. Also learned about this cool thing called Affinity Designer. A cheaper alternative to Adobe Illustrator. 
+
+Basics for each ss image
+Each pure CSS project will consist of the following components:
+
+A HTML div for each shape
+A specific CSS class assigned to each HTML div
+CSS classes containing styling for according HTML div
+An invisible box that will serve as the canvas (will make more sense later…I promise)
+
+Mike said in his blog post:
+Learning to make vector graphics teaches you about layouts, color palettes, manipulations of shapes, and overall creativity which does have a carry over to front-end development.
+
+**Link**
+You can find my code on my CodePen profile: https://codepen.io/OG/pen/KGNLZE
+CodePen for Ghost : https://codepen.io/OG/pen/ReVVxa
