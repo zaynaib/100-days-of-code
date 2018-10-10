@@ -81,3 +81,16 @@ Did not realize this before.
 ### Day 8: April 25, 2018
 **Today's Progress**: Completed the animal card challenge from the Google Udacity Nanodegree. Thank goodness for the slack channel. I still have to work on css layout and better understand the box model. 
 **Thoughts** : Still very sleepy. But I think I'm getting the hang of coding daily on the side.
+Articles that I would like to read 
+* https://ahmadawais.com/visual-studio-code-power-user/
+* https://ahmadawais.com/2017-year-in-review-open-source-wpcouple-the-next-big-thing/
+* https://github.com/Microsoft/vscode-tips-and-tricks
+* http://www.growingwiththeweb.com/2017/03/mastering-vscodes-terminal.html
+
+
+### Day 9: October 9, 2018
+**Today's Progress**: Decided to do a 30 day challenge on Pure CSS images. I'm really bad a CSS and I'm
+hoping that creating cute images will get me motivated to master CSS.
+**Thoughts** : I just followed the tutorial from Mike Mangialardi on CSS Images. I bushed up on different
+css positioning. The most important part of the article is a formula to set the images dead center in a div.
+`(100 - widthOftheDiv) / 2`
