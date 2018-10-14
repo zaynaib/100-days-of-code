@@ -121,3 +121,25 @@ Learning to make vector graphics teaches you about layouts, color palettes, mani
 **Link**
 You can find my code on my CodePen profile: https://codepen.io/OG/pen/KGNLZE
 CodePen for Ghost : https://codepen.io/OG/pen/ReVVxa
+
+
+
+ ### Day 11: October 11, 2018
+ **Today's Progress**: I completed the Hacktoberfest challenge by doing a pull request for freeCodeCamp guide github repo.
+
+**Thoughts** : This was my first Hacktoberfest that I participated in. A year ago I would have never thought that I would be a good enough programmer to contribute to other peoples work. I've learned so much by just reaching out to people asking them if they need help. I just hope that digital ocean will come through with them t-shirts or stickers. Crossing my fingers for github stickers.
+
+
+ ### Day 12: October 12, 2018
+ **Today's Progress**: Not too much progress. I started on another css image.
+
+**Thoughts** :I was distracted today. 
+
+
+ ### Day 13: October 13, 2018
+ **Today's Progress**: I took a day off. I created a baby bear.
+
+**Thoughts** : I felt burn this week. Tomorrow I will write in my Passion Planner and split up the task that I need to accomplish.
+
+**Link**
+CodePen: https://codepen.io/OG/pen/LgLqOa
