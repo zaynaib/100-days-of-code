@@ -143,3 +143,22 @@ CodePen for Ghost : https://codepen.io/OG/pen/ReVVxa
 
 **Link**
 CodePen: https://codepen.io/OG/pen/LgLqOa
+
+### Day 14: October 18,2018
+
+ **Today's Progress**: Decided to work on my portfolio and my workshop.
+
+**Thoughts** : I'm still feeling tired mang.
+
+**Link**
+No link for today.
+
+
+### Day 15: October 20,2018
+
+ **Today's Progress**: I've finally finished another CSS image. Day 2 of the challenge was suppose to be an elephant. I made Babar the french elephant king. I also got help from a Udacity mentor today with my neighborhood maps project. The sidebar finally works. When a user clicks on a link the animation for the marker bounces. Yay!!!
+
+**Thoughts** : This project was the hardest image that I've made so far. I had to get inspiration from other codepen images and I also googled vector images of elephants. Looking a different artists/programmers work has improved my images. I need a lot of practice. Maybe in 30 years I'll get there.
+
+**Link**
+CodePen: https://codepen.io/OG/pen/aRLPxp
