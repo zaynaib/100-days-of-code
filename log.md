@@ -162,3 +162,5 @@ No link for today.
 
 **Link**
 CodePen: https://codepen.io/OG/pen/aRLPxp
+https://codepen.io/gcorsiglia/pens/public/
+https://dev.to/agathacco/how-to-create-pure-css-illustrations-and-animate-them---part-1-1j1k
