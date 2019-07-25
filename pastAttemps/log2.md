@@ -117,3 +117,41 @@
 **Resources**
 
 [Git WorkFlow by FreeCodeCamp](https://www.freecodecamp.org/news/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f/)
+
+
+### Day 12: July 10, 2019 Wednesday
+
+**Today's Progress**: Created a server using Express.js framework for my D3 app. I also learned about the unary plus operator in javascript.
+
+**Thoughts:** Totally forgot everything I learned in bootcamp. I have to review basic web concepts such as servers, headers and clients.
+
+**Resources:** 
+https://stackoverflow.com/questions/26108623/how-to-link-a-javascript-file-to-an-html-page-using-express-and-nodejs
+https://stackoverflow.com/questions/13339472/correct-way-to-load-js-files-with-html-files-through-nodejs
+http://expressjs.com/en/api.html
+https://idiallo.com/javascript/uncaught-syntaxerror-unexpected-token#n
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Unary_plus_()
+https://scotch.io/tutorials/javascript-unary-operators-simple-and-useful
+
+
+### Day 13: July 15,2019 Sunday
+
+One easier way to run D3 scripts locally is to install the Node HTTP server (`npm i -g http-server`) and then run `http-server` in the folder where you have your `index.html` file with your scripts and styles. That way you don't have to spin up an Express instance for every project.
+
+
+
+### Day 14: July 16,2019 Sunday
+
+Learned about axis in D3.
+
+https://javascript.tutorialhorizon.com/2015/01/17/d3-fundamentals-understanding-domain-range-and-scales-in-d3js/
+
+https://alignedleft.com/tutorials/d3/scales
+
+### Day 12: June 29, 2019 Saturday
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link to work:** [Calculator App](http://www.example.com)

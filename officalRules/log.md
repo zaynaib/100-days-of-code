@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+This was my first attempt at 100 days of code. :)
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 

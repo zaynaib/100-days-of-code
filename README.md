@@ -1,24 +1,44 @@
-# I've joined the #100DaysOfCode Challenge.
+# 100 Days of Code
 
-## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code) challenge. More details about the challenge can be found here: [https://www.100daysofcode.com/](100daysofcode.com).
 
-## If you've decided to join:
-0. Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement.
-1. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2. Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-3. **Code minimum an hour every day for the next 100 days.**
-4. **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-5. Change the date in [Rules](rules.md) to the day you've started the challenge.
-6. Delete the examples in the log, or comment them out, and start filling it with your own content.
-7. **Tweet your progress every day using the #100DaysOfCode hashtag.**
-8. Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-9. Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-10. If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+I am also inspired by James Priest's [100DaysOfCode log](https://github.com/james-priest/100-days-of-code-log).
+The goal for the next 100 Days Code is not only to keep myself accountable but to also be more intentional on what I am learning. 
+In order to succeed it not only important to have goals but to break those goals up into clear definable tasks in order to move foward. 
 
-## Note
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
+Commitment: I will code daily for the next 100 days. I will be breaking the 100 days into 30 Day Sprints.
+
+
+Have no major barriers to entry (nothing preventing you from starting). For example, to learn knife skills, you don’t have to purchase an entire expensive set of chef’s knives. You just need a basic kitchen utility knife that you may already own or can buy with minimal investment.
+Consist of very clearly defined, actionable Tasks. Your knife skills might be broken down into holding a knife properly, sharpening, peeling, slicing, dicing, cubing, mincing, and so on.
+Have a fixed, relatively short time frame for completion (should take less than a month to complete, ideally a week or two). Just making a salad several days a week and mastering a simple vegetable soup recipe would get your knife skills up to speed pretty quickly.
+
+## Long Term
+
+| Start Date          | End Date            |
+| --------------------| --------------------|
+| Aug, 24, 2019       |	November 1, 2019    |
+
+
+## Sprints 
+
+| Start Date          | End Date            |
+| --------------------| --------------------|
+| July 24, 2019       | August 23, 2019     |
+| August 24, 2019     | September 22, 2019  |
+| September 23, 2019  | October 23, 2019    |
+
+## Long Term Goals for 100 Days
+- [ ] Code Daily
+- [ ] Learn new Javascript Libraries
+- [ ] Learn Computer Science Concepts
+- [ ] Get established in Twitter dev community
+    - Procative : Post new content with the #100DaysofCode
+    - Reactive : Post on others content
+    - Be Valuable : Post things of value
+
+
+
+[PastAttemps](./PastAttempts) folder is a log of my previous tries to complete the 100 Days of Code Challenge.
+
+[officalRules](./officalRules) folder has documentation and example logs provided by the creator, Alexander Kallaway, of the 100DaysOfCode Challenge.

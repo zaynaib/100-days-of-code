@@ -1,13 +1,6 @@
-# 100 Days Of Code - Log
+# 100 Days Of D3 - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+This log is an attempt to document my learning progress on the D3 javascript framework. I've attempted many times over othe pass few years to learn D3 and I hope by recording my progress will motivate me to learn the framework deeper.
 
 ### Day 1: May 31,2019
 
