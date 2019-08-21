@@ -9,6 +9,43 @@
 
 
 
+### Day 9: August 22,  2019 - Thursday
+
+**Today's Project(s) Goals**:
+
+- Practice D3 workflow create a bar chart with animation
+- Learn how to create tool tips in D3
+- Read more about modularization in D3
+- Make jasmine work in html
+- Make app interact with index.html
+
+
+**Progress**:
+
+### Day 8: August 21,  2019 - Wedensday
+
+**Today's Project(s) Goals**:
+
+- Finish javascript test for OOP Bank Account Program
+
+
+**Progress**: I finally finished the logic for this Bank Account Program. Today I learned how to override methods in subclasses. I still did not figure out ho to
+test error messages. I might go ask someone for help with that. I also notice that I easily get distracted while working. So I am going to hone my skill to focus by using the pomodro technique. 
+
+### Day 7: August 20,  2019 - Tuesday
+
+**Today's Project(s) Goals**:
+
+- Finish javascript test for OOP Program
+
+**Progress**:  I am 90 % done with unit test for bank account program. Today I learned how to create/override a constructor in a subclass by using the super keyword. I wanted to create a error messages when someone over withdrawls from their account. But I had trouble testing my error messages with the Jasmine testing framework. I also found a bug in my code while I was creating test for a savings account subclass. I am glad that I decided to now work in a project based learning. It is helping me identify my weak points in my knowledge. I need to write more blog post to get in the habit of explaining myself. i.e. job interviews. The TDD concept is new too me but with practice I will get better.
+
+What is a Class?
+A blueprint to create an object.
+
+What is a Constructor?
+A routine that creates an object from a class.
+
 ### Day 6: July 30,  2019 - Tuesday
 
 **Today's Project(s) Goals**:
