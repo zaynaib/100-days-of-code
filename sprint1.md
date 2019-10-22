@@ -2,10 +2,138 @@
 
 ## Goals for Months July - August
 
-- [ ] Work on a project at least 1 hr a day.
-- [ ] Learn D3.js
-- [ ] Learn Object Oriented Program with Javascript
-- [ ] Be more proficent in VS Code Editor
+- [X] Work on a project at least 1 hr a day.
+- [X] Learn D3.js
+- [X] Learn Object Oriented Program with Javascript
+- [X] Be more proficent in VS Code Editor
+
+## Goals for Month October
+
+- [ ] Complete Chingu Pre-Work
+- [ ] Learn more about git workflow and blog about it
+- [ ] Learn to more about css layout - media queries, positioning
+
+
+### Day 14 October 22, 2019
+
+**Goals for today**
+
+- Reset css,to see if it makes it easier to style
+- Read more about media queries
+- test the list and grid layout of what I already have
+
+- Read about default value list number input
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/number
+
+Flexbox media query
+https://codepen.io/estelle/pen/brDpB
+https://thoughtbot.com/blog/flexboxes-media-queries-awesome-layouts
+https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/
+
+
+
+### Day 13 October 21, 2019 - Monday
+
+**What did I do?**
+- Set up basic logic for the project.
+- when user adds in text it displays on the web page.
+- when user decides to change the size of the text it will automatically change as well
+- Set up the basic html structure of the site
+- Still working on the CSS. Its the hardest part of this project. CSS is not my strong suit but I enjoy a good challenge.
+- I googled a lot of resources to help me with this project. I will be sure to read them.
+
+
+**Nuggets of Wisdom**
+
+When to delete a git branch? - StackOverflow
+
+It often helps to think of branches as ideas. A fairly good rule of thumb is that if you're done working on the ideas that the branch represents - including done testing and incorporating those changes (merging them into master) - you're done with the branch itself. 
+
+How to delete git branches from command line.
+`git branch -d yourbranch`
+
+StackOverflow reference:
+
+https://stackoverflow.com/questions/5330145/when-to-delete-branches-in-git
+
+References : 
+https://kyleschaeffer.com/css-font-size-em-vs-px-vs-pt-vs-percent
+
+https://stackoverflow.com/questions/38034520/are-section-div-and-span-all-basically-the-same-thing?noredirect=1&lq=1
+
+https://stackoverflow.com/questions/6939864/what-is-the-difference-between-section-and-div
+
+
+https://www.quackit.com/html/tags/html_div_tag.cfm
+
+https://www.freecodecamp.org/news/how-to-get-dark-mode-working-with-css-740ad31e22e/
+
+https://www.creativebloq.com/how-to/how-to-implement-light-or-dark-modes-in-css ***
+
+https://css-tricks.com/dark-modes-with-css/
+
+https://www.youtube.com/watch?v=GNtohfhj_A4
+https://www.youtube.com/watch?v=QOVNb-DzZdA
+
+css reset:
+https://medium.com/@elad/normalize-css-or-css-reset-9d75175c5d1e
+
+Stuff that I need to learn:
+css em/ percentage/pixels 
+css responsive design how do sizes affect one another
+
+
+https://www.youtube.com/watch?v=oXjvS_DwF-U
+
+
+### Day 12 August 25, 2019 - Saturday
+
+**Today's Project(s) Goals**:
+
+- Clean up Github Profile
+- Add README files to projects
+
+### Day 11 August 24, 2019 - Saturday
+
+**Today's Project(s) Goals**:
+
+- Create basic html page for bank account app to get user input
+- Link JQuery to application
+- Watch Derek Bananas UML video
+
+
+### Day 10: August 23,  2019 - Friday
+
+**Today's Project(s) Goals**:
+
+- ~~Practice D3 workflow create a bar chart with animation~~
+- ~~Learn how to create tool tips in D3~~
+- ~~Read more about modularization in D3~~
+- ~~Make jasmine work in html~~
+- Make app interact with index.html
+
+
+**Progress**: I struggled a lot today.
+
+ *What went well*
+
+ I created a setup function for each of my test in the BankAccountSpec. It least my code looks better than what it did during bootcamp.
+
+*What went wrong*
+
+ I realized there was no point in using the jasmine framework as a stand alone html app. If it works in node.js then its fine. I tried to make my bank account app into a full stack app but I got confused on how to use npm module export modules with my index.html page. I have to plan out the View for my app with paper and pen later on.
+ I need to go over the fundamentals of javascript. I had a scoping issue with my setup spec and I would not have been able to figure it out without stackoverflow. I know I'm not going to be an expert in everything. But I would like to be a good problem hunter.
+
+### Day 10: October 18, 2019 - Friday
+
+**Today's Project(s) Goals**:
+
+**Progress**:
+
+**What I Learned**:
+Variables are scoped to functions. If you define it inside the function, it will be cleared/reset every time the function exits (i.e., after every click event).
+
+Basically, variables are local not only to functions, but to individual function calls.
 
 
 
@@ -20,7 +148,7 @@
 - Make app interact with index.html
 
 
-**Progress**:
+**Progress**: I made no progress today. I just relaxed and chilled with my family today.
 
 ### Day 8: August 21,  2019 - Wedensday
 
