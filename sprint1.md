@@ -9,10 +9,127 @@
 
 ## Goals for Month October
 
-- [ ] Complete Chingu Pre-Work
-- [ ] Learn more about git workflow and blog about it
-- [ ] Learn to more about css layout - media queries, positioning
+- [X] Complete Chingu Pre-Work
+- [X] Learn more about git workflow and blog about it
+- [X] Learn to more about css layout - media queries, positioning
 
+## Goals for Month November
+- [ ] Colt Steele Bootcamp BackEnd Basics
+- [ ] Work through Stephen Grider Course Algorithms and Data Structures
+- [ ] Do more level 8 Kata's on Code Wars
+- [ ] Do a D3 project once a week
+- [ ] Do a [Florin App Idea every two weeks](https://github.com/florinpop17/app-ideas)
+
+
+### Day 20 October 28, 2019
+
+**Todays Progress**
+
+Today I decided to work on technical interview questions. 
+I watched Colt Steele's Algorithm bootcamp and reviewed Big O notation.
+Colt is a really good teacher I enjoy learning the theory behind programming.
+
+I also did two coding challenges on the CodeWars website. I do fine on level 8 katas but the upper level katas I am just awful. It really shows me that I am not familiar with the javascript language.
+
+I also watched The Coding Interview Bootcamp: Algorithms + Data Structures by Stephen Grider. I went over the basic reverse a word problem and I learned two new javascript functions.
+
+Strategy is to go slow and steady and be consistent.
+
+Learned the difference between *for in* and *for of*
+For in is a looping function that is specifically for  javascript objects.
+For of is a looping function that is specifically for javascript iterables such as array, map or set.
+
+**Thoughts**
+I need to get more comfortable with javascript. I can make solutions to algorithms but
+I can't solve them without knowing javascript language well enough.
+
+### Day 19 October 27, 2019
+I just relaxed on Sunday and create a lesson plan for the week to come.
+
+
+### Day 18 October 26, 2019
+
+**What I did Today**
+
+Completed most of the recommended changes.
+I learned how to add a favicon on to my site.
+
+
+**Link to Work**
+
+[Chingu PreWork](https://github.com/zaynaib/chingu-prework1)
+
+
+### Day 17 October 25, 2019
+
+**What I did Today**
+
+Turned in my chingu cohort Pre Work Today!
+Someone reviewed it and send a list of recommended changes.
+`
+There is 2 mandatory changes and some recommendation which I think you should still follow.
+
+First the mandatory stuff:
+1. https://i.imgur.com/zuCOFcx.png
+When somebody deletes all the text in the type something box, it just displays empty boxes instead of the earlier preset text.
+
+2. Please include a link to your live website version in the readme file. The readme is an essential tool for anyone looking at your project :)
+
+Recommendations:
+1. https://i.imgur.com/FcyW80T.png
+It would be nice to delete all the logs from the console when you are shipping a production website.
+
+2. Including a favicon. Its nice to have one, it also throws an error message sometimes if you don't
+
+3. https://i.imgur.com/r7XnZCf.png
+there is a missing space after 2019^^
+
+4. https://i.imgur.com/o76xk6R.png
+It would be nicer to use an p element instead of an input box for the fonts. Or you could also disable it in css so that the user can not write in the font cards
+
+5. The reset button should also reset the type anything box (input)
+`
+
+### Day 16 October 24, 2019
+To dos
+- get a handle on event delegations
+- learn the difference between onclick and and addeventlistner
+- learn about async and await
+
+https://frontendmasters.github.io/bootcamp/
+https://frontendmasters.com/bootcamp/ ****
+https://frontendmasters.com/books/ ****
+
+https://medium.com/chingu/learning-by-cloning-how-to-decompose-the-problem-102f838a3b19  ****
+
+### Day 15 October 23, 2019
+
+Learn how to think of git branches when to create them and when to delete them.
+`git branch -d {branch name}`
+
+Learn how to merge branches in the command line
+` git branch merge {branch name}`
+Learn the difference between node vs element in javascript today.
+
+Learn that difference between foreach and map:
+
+The foreach function loops over an array and execute a function to the elements in the array. The forEach function modifies the orignal array. 
+
+The map function also loops through an array and execute function to the elements but it does *not* modify the orignal array. It creates a new array with modify elements while keeping the orignal array untouched.
+
+I also learned that The getElementsByClassName() method returns a collection of all elements in the document with the specified class name, as a NodeList object. 
+
+I learned about the CSS Grid Layout today! It is similar to Flexbox but it makes create gutters easier.
+
+I relearned relative and absoulte postioning.
+
+I learned grid and flexbox ** *gotchas* **. Flexbox and Grid layout only works for elements in the DOM that are parent and child. Flexbox does not apply to an elements grandchild, great grandchild etc.
+
+### Resources:
+
+[Interneting is Hard](https://internetingishard.com/html-and-css/)
+
+[StackOverflow Difference between Node object vs element object](https://stackoverflow.com/questions/9979172/difference-between-node-object-and-element-object)
 
 ### Day 14 October 22, 2019
 
@@ -21,23 +138,36 @@
 - Reset css,to see if it makes it easier to style
 - Read more about media queries
 - test the list and grid layout of what I already have
+ Buttons/links should be evident (make sure the cursor changes, etc.)
 
-- Read about default value list number input
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/number
+ **What did I do Today**
 
-Flexbox media query
-https://codepen.io/estelle/pen/brDpB
+ Nothing much to report. I used a datalist to create 4 defaut size options to font size form input.
+
+ I am still confused about one of the requirements for the chingu tier 1 challenge.
+
+ ### Resources
+
+[Mozilla Documentation Input Number](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/number)
+
+Flexbox media query Resources
+
 https://thoughtbot.com/blog/flexboxes-media-queries-awesome-layouts
+
 https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/
+
+https://www.quackit.com/javascript/javascript_refresh_page.cfm
 
 
 
 ### Day 13 October 21, 2019 - Monday
 
-**What did I do?**
-- Set up basic logic for the project.
-- when user adds in text it displays on the web page.
-- when user decides to change the size of the text it will automatically change as well
+**What did I do Today**
+- Set up basic logic for the Google Font Clone project.
+
+ When user adds in text it displays on the web page.
+The user can change the size of the text using input buttons it will automatically change.
+
 - Set up the basic html structure of the site
 - Still working on the CSS. Its the hardest part of this project. CSS is not my strong suit but I enjoy a good challenge.
 - I googled a lot of resources to help me with this project. I will be sure to read them.
@@ -45,45 +175,26 @@ https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/
 
 **Nuggets of Wisdom**
 
-When to delete a git branch? - StackOverflow
+When to delete a git branch? - [StackOverflow](https://stackoverflow.com/questions/5330145/when-to-delete-branches-in-git)
 
 It often helps to think of branches as ideas. A fairly good rule of thumb is that if you're done working on the ideas that the branch represents - including done testing and incorporating those changes (merging them into master) - you're done with the branch itself. 
 
 How to delete git branches from command line.
 `git branch -d yourbranch`
 
-StackOverflow reference:
-
-https://stackoverflow.com/questions/5330145/when-to-delete-branches-in-git
-
-References : 
-https://kyleschaeffer.com/css-font-size-em-vs-px-vs-pt-vs-percent
-
-https://stackoverflow.com/questions/38034520/are-section-div-and-span-all-basically-the-same-thing?noredirect=1&lq=1
-
-https://stackoverflow.com/questions/6939864/what-is-the-difference-between-section-and-div
 
 
-https://www.quackit.com/html/tags/html_div_tag.cfm
+### References : 
+[Font Sizing](https://kyleschaeffer.com/css-font-size-em-vs-px-vs-pt-vs-percent)
 
-https://www.freecodecamp.org/news/how-to-get-dark-mode-working-with-css-740ad31e22e/
+[css reset](https://medium.com/@elad/normalize-css-or-css-reset-9d75175c5d1e)
 
-https://www.creativebloq.com/how-to/how-to-implement-light-or-dark-modes-in-css ***
+**Things that I want to focus on learn:**
 
-https://css-tricks.com/dark-modes-with-css/
-
-https://www.youtube.com/watch?v=GNtohfhj_A4
-https://www.youtube.com/watch?v=QOVNb-DzZdA
-
-css reset:
-https://medium.com/@elad/normalize-css-or-css-reset-9d75175c5d1e
-
-Stuff that I need to learn:
 css em/ percentage/pixels 
 css responsive design how do sizes affect one another
 
-
-https://www.youtube.com/watch?v=oXjvS_DwF-U
+[Creating your own CSS Framework](https://www.youtube.com/watch?v=oXjvS_DwF-U)
 
 
 ### Day 12 August 25, 2019 - Saturday
