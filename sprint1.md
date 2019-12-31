@@ -16,9 +16,29 @@
 ## Goals for Month November
 - [ ] Colt Steele Bootcamp BackEnd Basics
 - [ ] Work through Stephen Grider Course Algorithms and Data Structures
-- [ ] Do more level 8 Kata's on Code Wars
-- [ ] Do a D3 project once a week
-- [ ] Do a [Florin App Idea every two weeks](https://github.com/florinpop17/app-ideas)
+- [ ] Do a Code War Challenge Everdyay
+- [ ] ~~Do a [Florin App Idea every two weeks](https://github.com/florinpop17/app-ideas)~~
+
+
+## Day 21 October 31, 2019
+
+
+**Today's Progress**
+Decided to revamp my portfolio website. I will try to make it a similar to my real resume. This will be my personal 2 week sprint.
+It will be a good project to practice Bootstrap and CSS.
+
+**Link to Code**
+
+
+
+## Day 21 October 30, 2019
+**Todays Progress**
+Today I did a problem on Code Wars and I leveled up from 7 to 6.
+I did not do a project today. I think tomorrow I will do try to do Colt Steele's Color Picker Project.
+
+
+**Link to Code**
+
 
 
 ### Day 20 October 28, 2019
